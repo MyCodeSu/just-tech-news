@@ -1,0 +1,29 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyCodeSu/just-tech-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyCodeSu/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/MyCodeSu/just-tech-news#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "insomnia": "^0.0.1",
+    "jest": "^28.1.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3",
+    "sequelize-cli": "^6.4.1"
+  }
+}
